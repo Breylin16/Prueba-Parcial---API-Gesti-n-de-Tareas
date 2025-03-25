@@ -37,5 +37,5 @@ Este proyecto es una API desarrollada en Node.js con Express que permite gestion
 - `DELETE /eliminar` → Archiva un estudiante.
 - `PATCH /eliminar-campo` → Resetea un campo específico.
 
-Breylin Sanchez
+#### Breylin Sanchez
 
